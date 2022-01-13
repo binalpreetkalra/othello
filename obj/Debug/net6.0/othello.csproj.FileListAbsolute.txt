@@ -1,0 +1,15 @@
+C:\Users\binal\othello\bin\Debug\net6.0\othello.exe
+C:\Users\binal\othello\bin\Debug\net6.0\othello.deps.json
+C:\Users\binal\othello\bin\Debug\net6.0\othello.runtimeconfig.json
+C:\Users\binal\othello\bin\Debug\net6.0\othello.dll
+C:\Users\binal\othello\bin\Debug\net6.0\ref\othello.dll
+C:\Users\binal\othello\bin\Debug\net6.0\othello.pdb
+C:\Users\binal\othello\obj\Debug\net6.0\othello.csproj.AssemblyReference.cache
+C:\Users\binal\othello\obj\Debug\net6.0\othello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binal\othello\obj\Debug\net6.0\othello.AssemblyInfoInputs.cache
+C:\Users\binal\othello\obj\Debug\net6.0\othello.AssemblyInfo.cs
+C:\Users\binal\othello\obj\Debug\net6.0\othello.csproj.CoreCompileInputs.cache
+C:\Users\binal\othello\obj\Debug\net6.0\othello.dll
+C:\Users\binal\othello\obj\Debug\net6.0\ref\othello.dll
+C:\Users\binal\othello\obj\Debug\net6.0\othello.pdb
+C:\Users\binal\othello\obj\Debug\net6.0\othello.genruntimeconfig.cache
